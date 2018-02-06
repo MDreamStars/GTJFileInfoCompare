@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lostFile/>
+<ErrorFile>
+    <FileInfo File_Num="1">
+        <Sourcefile>
+            <Name>SysInfo_Quota.GDB</Name>
+            <Size>2117632</Size>
+            <Time>2017-12-20 15:16:47</Time>
+            <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+            <Hash>fbe78d18287bb26ad37412c57a7257a5</Hash>
+        </Sourcefile>
+        <Comparefile>
+            <Name>SysInfo_Quota.GDB</Name>
+            <Size>2117632</Size>
+            <Time>2017-12-21 09:04:45</Time>
+            <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+            <Hash>b29a618309665699686cef543c81e49a</Hash>
+        </Comparefile>
+    </FileInfo>
+</ErrorFile>

@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileInfo>
+    <file file_num="1">
+        <Name>7z.dll</Name>
+        <Size>1073664</Size>
+        <Time>2017-12-14 19:52:00</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5ccfe68dc2263cc6ca937ffda63b417e</Hash>
+    </file>
+    <file file_num="2">
+        <Name>ArchiAlgo.dll</Name>
+        <Size>943616</Size>
+        <Time>2017-12-14 19:52:09</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6089ff33e0e8528c11cbe913a77170c4</Hash>
+    </file>
+    <file file_num="3">
+        <Name>BQItem.GSP</Name>
+        <Size>9175</Size>
+        <Time>2017-12-14 19:55:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>ae454ea12c388780626bf4f0d3e7e270</Hash>
+    </file>
+    <file file_num="4">
+        <Name>BQNameOutputRule.GSP</Name>
+        <Size>31025</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>005aa94a4ea7be3b9c0263959cc31f6f</Hash>
+    </file>
+    <file file_num="5">
+        <Name>BarInfo.GDB</Name>
+        <Size>13881344</Size>
+        <Time>2017-12-14 19:25:39</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a737ee775421d74c13f130422425aa79</Hash>
+    </file>
+    <file file_num="6">
+        <Name>BarPicTemplate.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:25:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>599333c75572287a47766782bbb5a0b4</Hash>
+    </file>
+    <file file_num="7">
+        <Name>CalcRule.GDB</Name>
+        <Size>7983104</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>eb49583d57ae0d7a8e9143b258377cbb</Hash>
+    </file>
+    <file file_num="8">
+        <Name>CalcRule.GSP</Name>
+        <Size>980</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f87c073290388a4a5d699f192fd0040b</Hash>
+    </file>
+    <file file_num="9">
+        <Name>CalcTypeSet.ini</Name>
+        <Size>60</Size>
+        <Time>2017-12-14 19:09:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9ca3b56b6008e1b3c042d9849a6522f6</Hash>
+    </file>
+    <file file_num="10">
+        <Name>CloudConfig.ini</Name>
+        <Size>141</Size>
+        <Time>2017-12-14 19:25:39</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9e4d24452b235af514fef9414a29e755</Hash>
+    </file>
+    <file file_num="11">
+        <Name>CmdCore.dll</Name>
+        <Size>62976</Size>
+        <Time>2017-12-14 19:52:05</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>22f4247254a51b1c702b60ee89f22cbf</Hash>
+    </file>
+    <file file_num="12">
+        <Name>Common.dll</Name>
+        <Size>508928</Size>
+        <Time>2017-12-14 19:52:28</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9aa3455a39bd797819bdac0b6b08546a</Hash>
+    </file>
+    <file file_num="13">
+        <Name>CommonCfg.ini</Name>
+        <Size>42</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>18f1a5461e3864c4e17a02ffbcce9637</Hash>
+    </file>
+    <file file_num="14">
+        <Name>CommonProjData.GSP</Name>
+        <Size>3426902</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0d0ab774ff188e08f14beebc1a71cb3a</Hash>
+    </file>
+    <file file_num="15">
+        <Name>CoolDark.ini</Name>
+        <Size>2238</Size>
+        <Time>2017-12-14 19:25:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark</Dir>
+        <Hash>c0410e166eebb40ccb9a53099dd8c416</Hash>
+    </file>
+    <file file_num="16">
+        <Name>CustomPoly.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>276a878550d10ca7875cf560e69c28ad</Hash>
+    </file>
+    <file file_num="17">
+        <Name>D3DCompiler_43.dll</Name>
+        <Size>2106216</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1c9b45e87528b8bb8cfa884ea0099a85</Hash>
+    </file>
+    <file file_num="18">
+        <Name>DBOperations.dll</Name>
+        <Size>284672</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6bed5decbfedb2dabe8300508259f28e</Hash>
+    </file>
+    <file file_num="19">
+        <Name>Default.ini</Name>
+        <Size>1548</Size>
+        <Time>2017-12-14 19:25:50</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_Default</Dir>
+        <Hash>79d26435fd451974868983956863b3ac</Hash>
+    </file>
+    <file file_num="20">
+        <Name>Dll7zip.dll</Name>
+        <Size>44544</Size>
+        <Time>2017-12-14 19:51:56</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>40b1bca35cd37a0914551197d4a81907</Hash>
+    </file>
+    <file file_num="21">
+        <Name>Domain.ini</Name>
+        <Size>229</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9fe21dcbe9cb22d4f4cfd64219c5bcdd</Hash>
+    </file>
+    <file file_num="22">
+        <Name>DrawingSet.GSP</Name>
+        <Size>212953</Size>
+        <Time>2017-12-14 19:25:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1b34c4dc18cfefdb09e4bab7f658aad9</Hash>
+    </file>
+    <file file_num="23">
+        <Name>Drawings.GDB</Name>
+        <Size>7458816</Size>
+        <Time>2017-12-14 19:24:26</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2d049abcf7bf6e462340c95a1b49db5c</Hash>
+    </file>
+    <file file_num="24">
+        <Name>FeedbackFrmOption.ini</Name>
+        <Size>206</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f6e25d4e6377f4e50f35e2ad4595fa63</Hash>
+    </file>
+    <file file_num="25">
+        <Name>FreeImage.dll</Name>
+        <Size>3514368</Size>
+        <Time>2017-12-14 19:52:00</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6ab22b75912bb08f7db2c5de755f9084</Hash>
+    </file>
+    <file file_num="26">
+        <Name>G2013ModelComPS.dll</Name>
+        <Size>11264</Size>
+        <Time>2017-12-14 19:29:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>affd7abf0fe4bab00fb105f640ad5626</Hash>
+    </file>
+    <file file_num="27">
+        <Name>GAMPlugins.ini</Name>
+        <Size>133</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>976e795f78d3ec69d79150eabdde6265</Hash>
+    </file>
+    <file file_num="28">
+        <Name>GBQIntegration.dll</Name>
+        <Size>1736704</Size>
+        <Time>2017-12-20 14:36:02</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>593871614cc1b8f422542264f8ef29fc</Hash>
+    </file>
+    <file file_num="29">
+        <Name>GBQProjModel.GSP</Name>
+        <Size>24449</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>d3948c1b57335f2e7278f21cf8b80f72</Hash>
+    </file>
+    <file file_num="30">
+        <Name>GCADIdentification.dll</Name>
+        <Size>2544128</Size>
+        <Time>2017-12-20 10:18:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>23ea5eb3979b9bbe31ea94b8280780e7</Hash>
+    </file>
+    <file file_num="31">
+        <Name>GCADModel.dll</Name>
+        <Size>983040</Size>
+        <Time>2017-12-20 09:36:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e5c23ce8dae3f85181d9e295ef07f9cc</Hash>
+    </file>
+    <file file_num="32">
+        <Name>GCLCalcSettings.ini</Name>
+        <Size>208</Size>
+        <Time>2017-12-20 15:17:25</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5c276bf249dfe62968d77769b7596519</Hash>
+    </file>
+    <file file_num="33">
+        <Name>GCLCalculator.dll</Name>
+        <Size>2509312</Size>
+        <Time>2017-12-20 14:45:20</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0e724aa85492acb3277aec043e1d6e3a</Hash>
+    </file>
+    <file file_num="34">
+        <Name>GCLCmdState.dll</Name>
+        <Size>1974272</Size>
+        <Time>2017-12-20 14:36:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>602da4f6dace82de2d0e7fb8fe1ffa0b</Hash>
+    </file>
+    <file file_num="35">
+        <Name>GCLCollect.dll</Name>
+        <Size>396288</Size>
+        <Time>2017-12-20 14:38:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>416205952459a8389d4dfddbee04f230</Hash>
+    </file>
+    <file file_num="36">
+        <Name>GCLCollectDataExport.dll</Name>
+        <Size>167424</Size>
+        <Time>2017-12-14 19:58:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>94f1a995403d7e4a92931db75fc1c58b</Hash>
+    </file>
+    <file file_num="37">
+        <Name>GCLCollectDataExportForAuto_Com.dll</Name>
+        <Size>167424</Size>
+        <Time>2017-12-14 19:58:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>7779f334ed65a4f02729234c742e4d5f</Hash>
+    </file>
+    <file file_num="38">
+        <Name>GCLCommon.dll</Name>
+        <Size>3142144</Size>
+        <Time>2017-12-20 14:35:01</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>459dc9e50baa8e54098a54249da04276</Hash>
+    </file>
+    <file file_num="39">
+        <Name>GCLDataService.dll</Name>
+        <Size>593408</Size>
+        <Time>2017-12-20 14:35:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cc08b81239c639340c8feb70d2a1e363</Hash>
+    </file>
+    <file file_num="40">
+        <Name>GCLMerge.dll</Name>
+        <Size>91136</Size>
+        <Time>2017-12-20 14:45:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ed23f69bf58035c6e8d830454fe602c3</Hash>
+    </file>
+    <file file_num="41">
+        <Name>GCLModelEditCmdState.dll</Name>
+        <Size>3884544</Size>
+        <Time>2017-12-20 14:38:50</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d354f5f7f91e30a55851ae1cd08cfdd2</Hash>
+    </file>
+    <file file_num="42">
+        <Name>GCLPlugin.dll</Name>
+        <Size>2000896</Size>
+        <Time>2017-12-20 14:39:45</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9ef280ae17d942a02699fac9476fcaed</Hash>
+    </file>
+    <file file_num="43">
+        <Name>GCLProjectDataHelper.dll</Name>
+        <Size>2353152</Size>
+        <Time>2017-12-20 14:49:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>89ad1986624fd0808c1ba35463c6d532</Hash>
+    </file>
+    <file file_num="44">
+        <Name>GCLReport.dll</Name>
+        <Size>4815360</Size>
+        <Time>2017-12-20 14:42:30</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ac7fda68944064e0f5c793a004eddfd9</Hash>
+    </file>
+    <file file_num="45">
+        <Name>GCLRuleDataService.dll</Name>
+        <Size>194560</Size>
+        <Time>2017-12-20 10:18:20</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1ee0598db76059d70d89b6055e9f6889</Hash>
+    </file>
+    <file file_num="46">
+        <Name>GCLWork.dll</Name>
+        <Size>6936576</Size>
+        <Time>2017-12-20 14:36:21</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>3a6aacba19fe3bba5a8e6cda3ad79feb</Hash>
+    </file>
+    <file file_num="47">
+        <Name>GCLWorkData.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:55:37</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>52e886bfec3c476e8ff7235c2c043f4c</Hash>
+    </file>
+    <file file_num="48">
+        <Name>GCLWorkPlugin.dll</Name>
+        <Size>121344</Size>
+        <Time>2017-12-20 10:18:26</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>00c3f449f75e63b68b59f87ccc5c00ff</Hash>
+    </file>
+    <file file_num="49">
+        <Name>GCL_Quota.GSP</Name>
+        <Size>40051</Size>
+        <Time>2017-12-14 19:58:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>61f5b2672ca2ccf8bf7f2dcb09974454</Hash>
+    </file>
+    <file file_num="50">
+        <Name>GCPPCalculator.dll</Name>
+        <Size>34058752</Size>
+        <Time>2017-12-20 14:45:12</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0ecfcd25090b0ada178e3dd3f8d222bb</Hash>
+    </file>
+    <file file_num="51">
+        <Name>GCPPMCommon.dll</Name>
+        <Size>1428992</Size>
+        <Time>2017-12-20 09:59:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8842393b5b67a7c2899c87da53011666</Hash>
+    </file>
+    <file file_num="52">
+        <Name>GCPPMProjDataHelper.dll</Name>
+        <Size>2607104</Size>
+        <Time>2017-12-20 14:36:04</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>61451ffc50e496e2c0ff4377cbaf3f0f</Hash>
+    </file>
+    <file file_num="53">
+        <Name>GCWorker.ini</Name>
+        <Size>65</Size>
+        <Time>2017-12-18 08:52:06</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6e6ae986ed997647c28ad3d73c7d6bef</Hash>
+    </file>
+    <file file_num="54">
+        <Name>GDownload.dll</Name>
+        <Size>142560</Size>
+        <Time>2017-12-14 19:25:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0def6c5c9afca4a6e84cd403feb1adfb</Hash>
+    </file>
+    <file file_num="55">
+        <Name>GEPEngine.dll</Name>
+        <Size>930816</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>05783906d6e4093e84cbed78738ad1c4</Hash>
+    </file>
+    <file file_num="56">
+        <Name>GFCCommon.dll</Name>
+        <Size>6380032</Size>
+        <Time>2017-12-20 14:35:34</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7679b0b228ebdf9d81b497e8ec375170</Hash>
+    </file>
+    <file file_num="57">
+        <Name>GGDB.dll</Name>
+        <Size>1852416</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1bf7363f784ebdc9d7a2d431261a03e2</Hash>
+    </file>
+    <file file_num="58">
+        <Name>GGDBCfg.ini</Name>
+        <Size>1204</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>742a96cd886d72b0db2dd9ea1337dfad</Hash>
+    </file>
+    <file file_num="59">
+        <Name>GGDBDataAwareCtrl.dll</Name>
+        <Size>960000</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>324978a8ed926753afaa5228f863fa07</Hash>
+    </file>
+    <file file_num="60">
+        <Name>GGJBarViewer.dll</Name>
+        <Size>1503744</Size>
+        <Time>2017-12-20 14:36:45</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>97bdf83eac270e930ce9f78d05856467</Hash>
+    </file>
+    <file file_num="61">
+        <Name>GGJBarsCompare.ini</Name>
+        <Size>297</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>13b889f19952a21683b172f2c719acb3</Hash>
+    </file>
+    <file file_num="62">
+        <Name>GGJBusinessOper.dll</Name>
+        <Size>13338624</Size>
+        <Time>2017-12-20 14:36:29</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5a8f9bf8aeba95afd1bc77a0840e0305</Hash>
+    </file>
+    <file file_num="63">
+        <Name>GGJCalcCmd.dll</Name>
+        <Size>980992</Size>
+        <Time>2017-12-20 14:45:43</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>08101f3a7aafb1260d42e74a310541c7</Hash>
+    </file>
+    <file file_num="64">
+        <Name>GGJCalcCommon.dll</Name>
+        <Size>1113088</Size>
+        <Time>2017-12-20 14:36:38</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f31643a41753bff88989c8d32a29c495</Hash>
+    </file>
+    <file file_num="65">
+        <Name>GGJCalculator.dll</Name>
+        <Size>35969024</Size>
+        <Time>2017-12-20 14:45:31</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>499ffe9e588ccb62dd7a62d470993591</Hash>
+    </file>
+    <file file_num="66">
+        <Name>GGJCmdState.dll</Name>
+        <Size>1593344</Size>
+        <Time>2017-12-20 14:36:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7738291e73375f01a7455ef17cbb80b0</Hash>
+    </file>
+    <file file_num="67">
+        <Name>GGJCollect.dll</Name>
+        <Size>673792</Size>
+        <Time>2017-12-20 14:38:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>3e91eb4493b1ab03fefb79393d2069fb</Hash>
+    </file>
+    <file file_num="68">
+        <Name>GGJCollectDataExport.dll</Name>
+        <Size>156672</Size>
+        <Time>2017-12-14 19:58:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>19ad1004201912993c12b29567a6d4af</Hash>
+    </file>
+    <file file_num="69">
+        <Name>GGJCommon.dll</Name>
+        <Size>1866752</Size>
+        <Time>2017-12-20 14:36:32</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0b143dec65afec9934d3a79993285e98</Hash>
+    </file>
+    <file file_num="70">
+        <Name>GGJDataService.dll</Name>
+        <Size>8792064</Size>
+        <Time>2017-12-20 14:35:23</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ece6fc0b48f85c703946784efc427cd5</Hash>
+    </file>
+    <file file_num="71">
+        <Name>GGJDataSvr.dll</Name>
+        <Size>948960</Size>
+        <Time>2017-12-14 19:25:31</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>93bb8c383d816137c134e9b92d9816cb</Hash>
+    </file>
+    <file file_num="72">
+        <Name>GGJExcp.ini</Name>
+        <Size>33</Size>
+        <Time>2017-12-14 19:09:55</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7e06408f1cbe67adeff9c8cd97e49e46</Hash>
+    </file>
+    <file file_num="73">
+        <Name>GGJMerge.dll</Name>
+        <Size>173568</Size>
+        <Time>2017-12-20 14:45:37</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1892f279febe300acd3dc5237c4117b3</Hash>
+    </file>
+    <file file_num="74">
+        <Name>GGJModel.dll</Name>
+        <Size>415744</Size>
+        <Time>2017-12-20 14:36:34</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0dfc47c47f17d9fbba56d664355a840c</Hash>
+    </file>
+    <file file_num="75">
+        <Name>GGJModelEditCmdState.dll</Name>
+        <Size>6893568</Size>
+        <Time>2017-12-20 14:36:44</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4b123e28820bff4d6121b477db72d0be</Hash>
+    </file>
+    <file file_num="76">
+        <Name>GGJNMCommon.dll</Name>
+        <Size>587776</Size>
+        <Time>2017-12-20 14:36:55</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9e9f1424474a84671f65551ff2fbc081</Hash>
+    </file>
+    <file file_num="77">
+        <Name>GGJPlugin.dll</Name>
+        <Size>2372096</Size>
+        <Time>2017-12-20 14:37:01</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5bd0bf756240e422867e4db70ce40201</Hash>
+    </file>
+    <file file_num="78">
+        <Name>GGJProjectDataHelper.dll</Name>
+        <Size>808960</Size>
+        <Time>2017-12-20 14:38:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2f7ad241c39594f3abef776c8ded55c7</Hash>
+    </file>
+    <file file_num="79">
+        <Name>GGJReport.dll</Name>
+        <Size>2960896</Size>
+        <Time>2017-12-20 14:39:40</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e2f60f121e9287881a41ca3a6304bbf9</Hash>
+    </file>
+    <file file_num="80">
+        <Name>GGJSectionBarEditor.dll</Name>
+        <Size>5338112</Size>
+        <Time>2017-12-20 14:36:40</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>448b98fb85480ec9cd5ab9d1ead08759</Hash>
+    </file>
+    <file file_num="81">
+        <Name>GGJTableInput.dll</Name>
+        <Size>1289728</Size>
+        <Time>2017-12-20 14:45:44</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>873eedef61b9e52af5c0377687ef3527</Hash>
+    </file>
+    <file file_num="82">
+        <Name>GGJToolCfg.ini</Name>
+        <Size>196</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>fa3551df954cfe9ec61e568cee2e961b</Hash>
+    </file>
+    <file file_num="83">
+        <Name>GGJ_Quota.GSP</Name>
+        <Size>19482</Size>
+        <Time>2017-12-14 19:58:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>cd0b19a980e2ba5122792f3e9bc04a78</Hash>
+    </file>
+    <file file_num="84">
+        <Name>GGPViewerProxy.dll</Name>
+        <Size>27136</Size>
+        <Time>2017-12-14 19:48:13</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>011f64d5dd50061fd8aba677475ef715</Hash>
+    </file>
+    <file file_num="85">
+        <Name>GJGSectionLib.dll</Name>
+        <Size>72704</Size>
+        <Time>2017-12-14 19:24:24</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\tools\GJGSectionManual</Dir>
+        <Hash>4061df3f8863bb4e83c70f5778722d8f</Hash>
+    </file>
+    <file file_num="86">
+        <Name>GLDCommon.dll</Name>
+        <Size>1148416</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9cb53200c4e9cbf078ce7ee0eeb1f3cd</Hash>
+    </file>
+    <file file_num="87">
+        <Name>GLDCrypt.dll</Name>
+        <Size>1085952</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>336229af9b36b2ed0a721fc2071ac461</Hash>
+    </file>
+    <file file_num="88">
+        <Name>GLDCustomWidgetStyle.ini</Name>
+        <Size>802</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>a8645d27812e04bbcdef0a642b326502</Hash>
+    </file>
+    <file file_num="89">
+        <Name>GLDMessageBoxConfiguration.ini</Name>
+        <Size>483</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>f0243a023a3605839a11ffef497b412b</Hash>
+    </file>
+    <file file_num="90">
+        <Name>GLDPrivateCalledPlatform.dll</Name>
+        <Size>19968</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4e260a1d03f6828e216a17deae2085c7</Hash>
+    </file>
+    <file file_num="91">
+        <Name>GLDSpinBoxStyle.ini</Name>
+        <Size>405</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>19597a440b69fd71c61020ca9e523fc4</Hash>
+    </file>
+    <file file_num="92">
+        <Name>GLDStyles.dll</Name>
+        <Size>531456</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5d6a700f738bdbc5fb3b0d9ef82e1534</Hash>
+    </file>
+    <file file_num="93">
+        <Name>GLDTableView.dll</Name>
+        <Size>2393600</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a25af9737d9387722f998ec219f8d7b4</Hash>
+    </file>
+    <file file_num="94">
+        <Name>GLDThemeEngine.dll</Name>
+        <Size>610816</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e80521038fe2050c343e36c408dfadef</Hash>
+    </file>
+    <file file_num="95">
+        <Name>GLDWidget.dll</Name>
+        <Size>2024960</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e9f46b25193093aa2744acc31b0d850a</Hash>
+    </file>
+    <file file_num="96">
+        <Name>GLDXML.dll</Name>
+        <Size>983552</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>448b1d996a5e13dba525e436881fa521</Hash>
+    </file>
+    <file file_num="97">
+        <Name>GLDZip.dll</Name>
+        <Size>963072</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ad5190dbafa37a627f57c58b4ae8af5c</Hash>
+    </file>
+    <file file_num="98">
+        <Name>GMCommon.dll</Name>
+        <Size>1160192</Size>
+        <Time>2017-12-20 09:34:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d1376b5ed63f7a7ae08140c12d2de690</Hash>
+    </file>
+    <file file_num="99">
+        <Name>GMModel.dll</Name>
+        <Size>5288960</Size>
+        <Time>2017-12-20 09:37:03</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>fb5c20621051f0b1ff9a0561828aeb7a</Hash>
+    </file>
+    <file file_num="100">
+        <Name>GMP.ini</Name>
+        <Size>262</Size>
+        <Time>2017-12-20 15:16:25</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f7c566212967e3d14ef0d2a9f733cbbe</Hash>
+    </file>
+    <file file_num="101">
+        <Name>GMPCloud.dll</Name>
+        <Size>2631168</Size>
+        <Time>2017-12-20 10:02:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ece3ca3f09cb8cdf3e483c8bce6572e0</Hash>
+    </file>
+    <file file_num="102">
+        <Name>GMPCloudConfig.dll</Name>
+        <Size>285696</Size>
+        <Time>2017-12-20 10:03:20</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>75ff2731080f7e091b96157221d185b3</Hash>
+    </file>
+    <file file_num="103">
+        <Name>GMPCloudUIPlugin.dll</Name>
+        <Size>48640</Size>
+        <Time>2017-12-20 09:34:19</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2dc8825cc686343a97dc2482a7c7c955</Hash>
+    </file>
+    <file file_num="104">
+        <Name>GMPControls.dll</Name>
+        <Size>1142784</Size>
+        <Time>2017-12-20 09:44:12</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7d3ea50cb3583bdccedcde23e7fa476b</Hash>
+    </file>
+    <file file_num="105">
+        <Name>GMPCore.dll</Name>
+        <Size>25085440</Size>
+        <Time>2017-12-20 09:58:19</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>c48037dc44f37396c3968cd589ffefbe</Hash>
+    </file>
+    <file file_num="106">
+        <Name>GMPLog.ini</Name>
+        <Size>150</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f4a85f04457859e44ce063a8e30543a1</Hash>
+    </file>
+    <file file_num="107">
+        <Name>GMPRibbonStyle.dll</Name>
+        <Size>229888</Size>
+        <Time>2017-12-14 19:39:19</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9a318d05b2acb0d5ba891450441dd54f</Hash>
+    </file>
+    <file file_num="108">
+        <Name>GMPRibbonStyle.ini</Name>
+        <Size>1295</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res</Dir>
+        <Hash>2acf26820abf4acb0532293c3c590bf1</Hash>
+    </file>
+    <file file_num="109">
+        <Name>GMPScrollStyle.ini</Name>
+        <Size>807</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>8fbfdd427d54245516c59b0ae9ebbb1c</Hash>
+    </file>
+    <file file_num="110">
+        <Name>GMPUIExtends.dll</Name>
+        <Size>280576</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>06a15c5ca28d9c2b38d751d1fe46f849</Hash>
+    </file>
+    <file file_num="111">
+        <Name>GMath.dll</Name>
+        <Size>90624</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>641314d708db513d0b80549d051b4ca4</Hash>
+    </file>
+    <file file_num="112">
+        <Name>GNDBComService.dll</Name>
+        <Size>492544</Size>
+        <Time>2017-12-14 19:55:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>a8911b914f95397b2e145d304368f75e</Hash>
+    </file>
+    <file file_num="113">
+        <Name>GNDBEngine.dll</Name>
+        <Size>2283008</Size>
+        <Time>2017-12-14 19:55:37</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>170d6cf53c4185e61520e610b388a900</Hash>
+    </file>
+    <file file_num="114">
+        <Name>GNDBEngine64.dll</Name>
+        <Size>2803712</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>3be8fba9a6c71629be6168bff3c3c3f9</Hash>
+    </file>
+    <file file_num="115">
+        <Name>GP.dll</Name>
+        <Size>1021952</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bc90b7afd72989281cb94d0ce6adc840</Hash>
+    </file>
+    <file file_num="116">
+        <Name>GRPCommon.dll</Name>
+        <Size>1474560</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6e05472173d3061fb0a221f91d0b3141</Hash>
+    </file>
+    <file file_num="117">
+        <Name>GRPEngine.dll</Name>
+        <Size>1273856</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5762dbe42b49edcf3f181f4d0c68e468</Hash>
+    </file>
+    <file file_num="118">
+        <Name>GSP.dll</Name>
+        <Size>3266048</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cae2504694c19648c12111e12a0adfb6</Hash>
+    </file>
+    <file file_num="119">
+        <Name>GSPEngine.dll</Name>
+        <Size>4942336</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ed34b7481ce401ebb98365c13d5806ef</Hash>
+    </file>
+    <file file_num="120">
+        <Name>GSPEngined.dll</Name>
+        <Size>8143872</Size>
+        <Time>2017-12-14 19:45:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>83aa18ef17f4a1e189a7a18331298099</Hash>
+    </file>
+    <file file_num="121">
+        <Name>GTCADImporter.dll</Name>
+        <Size>1694208</Size>
+        <Time>2017-12-20 09:42:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>c55259ee45f38d35b95a6ddc7b3ae511</Hash>
+    </file>
+    <file file_num="122">
+        <Name>GTJCADCmdState.dll</Name>
+        <Size>14157824</Size>
+        <Time>2017-12-20 14:43:09</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ac1f285887c8d4dfbf793f8d7cbe5ec4</Hash>
+    </file>
+    <file file_num="123">
+        <Name>GTJCADIdentifier.dll</Name>
+        <Size>16481792</Size>
+        <Time>2017-12-20 14:40:41</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>56f9b14e52c1338de97fbd29e7cacb1d</Hash>
+    </file>
+    <file file_num="124">
+        <Name>GTJCADPlugin.dll</Name>
+        <Size>780800</Size>
+        <Time>2017-12-20 14:45:38</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>458988cfc25428e912dbaf4f2a28e756</Hash>
+    </file>
+    <file file_num="125">
+        <Name>GTJCADScrollStyle.ini</Name>
+        <Size>916</Size>
+        <Time>2017-12-14 19:32:39</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\images\CAD\Ini</Dir>
+        <Hash>44949b00d291c746a7e58b064567bafb</Hash>
+    </file>
+    <file file_num="126">
+        <Name>GTJCalcData.dll</Name>
+        <Size>9256960</Size>
+        <Time>2017-12-20 14:38:35</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bec55f944aa6f7f4a412040b3591554d</Hash>
+    </file>
+    <file file_num="127">
+        <Name>GTJCalcQuantityFrm.dll</Name>
+        <Size>756224</Size>
+        <Time>2017-12-20 14:39:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>73724c8ae88c9fbd72d9413e6fc11d96</Hash>
+    </file>
+    <file file_num="128">
+        <Name>GTJCalcServer.dll</Name>
+        <Size>224768</Size>
+        <Time>2017-12-20 11:11:21</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e96e6a5aaa86c3a3ce90112ba107d430</Hash>
+    </file>
+    <file file_num="129">
+        <Name>GTJCalcUtils.dll</Name>
+        <Size>42496</Size>
+        <Time>2017-12-20 09:26:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f14ba9ab606e76be9d45e3cd97db1a8d</Hash>
+    </file>
+    <file file_num="130">
+        <Name>GTJCloudCheck.dll</Name>
+        <Size>6746112</Size>
+        <Time>2017-12-20 14:38:55</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8bcfa0442b8c7c6979e3f4da83ba1946</Hash>
+    </file>
+    <file file_num="131">
+        <Name>GTJCloudCheckPlugin.dll</Name>
+        <Size>173056</Size>
+        <Time>2017-12-20 10:18:46</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>fffdbc7592c0a5105098a61979e92edf</Hash>
+    </file>
+    <file file_num="132">
+        <Name>GTJCmdState.dll</Name>
+        <Size>8943616</Size>
+        <Time>2017-12-20 14:36:04</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e15244ef52d3314af75a078120a9141b</Hash>
+    </file>
+    <file file_num="133">
+        <Name>GTJCommon.dll</Name>
+        <Size>13491712</Size>
+        <Time>2017-12-20 14:34:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d8b2b6f2cc9fbb67d3159f7a35d6acd9</Hash>
+    </file>
+    <file file_num="134">
+        <Name>GTJDataService.dll</Name>
+        <Size>919552</Size>
+        <Time>2017-12-20 09:59:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2373b12ffce802645347607a43a839e8</Hash>
+    </file>
+    <file file_num="135">
+        <Name>GTJModelCommon.dll</Name>
+        <Size>647680</Size>
+        <Time>2017-12-20 14:34:50</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>282f8c782b7f5d41ff68402ec22e010b</Hash>
+    </file>
+    <file file_num="136">
+        <Name>GTJModelEditCmdState.dll</Name>
+        <Size>5915648</Size>
+        <Time>2017-12-20 14:35:06</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f621c81ea76016b56c0356d1d1e2a5de</Hash>
+    </file>
+    <file file_num="137">
+        <Name>GTJPlugin.dll</Name>
+        <Size>3006976</Size>
+        <Time>2017-12-20 14:36:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>75c62bc1f355862453cec870b00104a8</Hash>
+    </file>
+    <file file_num="138">
+        <Name>GTJProCommon.dll</Name>
+        <Size>220672</Size>
+        <Time>2017-12-20 10:24:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0b7e95d233741265824ddb22775a7f07</Hash>
+    </file>
+    <file file_num="139">
+        <Name>GTJProPlugin.dll</Name>
+        <Size>1412608</Size>
+        <Time>2017-12-20 14:37:04</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4d31bbdab990749c4d792da8444fd506</Hash>
+    </file>
+    <file file_num="140">
+        <Name>GTJProjectDataHelper.dll</Name>
+        <Size>3319808</Size>
+        <Time>2017-12-20 14:49:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2373b9b8ee3e5ccc336f9a988cec4e70</Hash>
+    </file>
+    <file file_num="141">
+        <Name>GTJQuotaCfg.ini</Name>
+        <Size>153</Size>
+        <Time>2017-12-14 19:58:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7dd924787846ed03a8343f050835e1c1</Hash>
+    </file>
+    <file file_num="142">
+        <Name>GTJQuotaCollect.dll</Name>
+        <Size>1480704</Size>
+        <Time>2017-12-20 14:37:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2c40a9c28e697c2697b5b9de6b014692</Hash>
+    </file>
+    <file file_num="143">
+        <Name>GTJQuotaCommon.dll</Name>
+        <Size>930304</Size>
+        <Time>2017-12-20 11:27:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>81c9f373e76e29bb01a4e214b4584f59</Hash>
+    </file>
+    <file file_num="144">
+        <Name>GTJQuotaPlugin.dll</Name>
+        <Size>213504</Size>
+        <Time>2017-12-20 14:45:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8573d212a997deab1abb74bd1f7322e5</Hash>
+    </file>
+    <file file_num="145">
+        <Name>GTJQuotaReport.dll</Name>
+        <Size>3307520</Size>
+        <Time>2017-12-20 14:45:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a0bc2487c9cbdbc74f6cbbc3c5208b23</Hash>
+    </file>
+    <file file_num="146">
+        <Name>GTJReport.dll</Name>
+        <Size>1291264</Size>
+        <Time>2017-12-20 11:05:40</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>94604e86da33d997d345d2040e7d7c0c</Hash>
+    </file>
+    <file file_num="147">
+        <Name>GTJReportConfig.GSP</Name>
+        <Size>230669</Size>
+        <Time>2017-12-14 19:36:12</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d25c19a104cf99e763bcd4abd865c87f</Hash>
+    </file>
+    <file file_num="148">
+        <Name>GTJReportPlugin.dll</Name>
+        <Size>11316736</Size>
+        <Time>2017-12-20 14:44:25</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ae42252fbeb8ee8522f3cf79dd1a3616</Hash>
+    </file>
+    <file file_num="149">
+        <Name>GTJStartupDebugConfig.ini</Name>
+        <Size>539</Size>
+        <Time>2017-12-14 19:53:45</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\StartupFrame</Dir>
+        <Hash>d0d37ad6443a0d055acefeb31035845a</Hash>
+    </file>
+    <file file_num="150">
+        <Name>GUC.dll</Name>
+        <Size>308736</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2adc94b20736e48d4ee80e6d1b63c4f8</Hash>
+    </file>
+    <file file_num="151">
+        <Name>GUpdater.ini</Name>
+        <Size>563</Size>
+        <Time>2017-12-14 19:25:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ed7f3f26144cb6b6a01fe607b6b7bb63</Hash>
+    </file>
+    <file file_num="152">
+        <Name>Geometry.dll</Name>
+        <Size>6522368</Size>
+        <Time>2017-12-14 19:52:09</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>96b230e08941e879e5decdd51b547c71</Hash>
+    </file>
+    <file file_num="153">
+        <Name>GfcClasses.dll</Name>
+        <Size>7422464</Size>
+        <Time>2017-12-20 09:39:46</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>23d3494d6d63a0f7c46717956517dcd9</Hash>
+    </file>
+    <file file_num="154">
+        <Name>GlodonSeparateLine.ini</Name>
+        <Size>105</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>e1d0105f35baa4da0badf90ef347aa20</Hash>
+    </file>
+    <file file_num="155">
+        <Name>GlodonSliderStyle.ini</Name>
+        <Size>436</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>21b663b79b20d6f88a3d831ff0c1f969</Hash>
+    </file>
+    <file file_num="156">
+        <Name>GlodonStandardDialog.ini</Name>
+        <Size>162</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_CoolDark\Ini</Dir>
+        <Hash>ffca44d16676573f999c6968261ad307</Hash>
+    </file>
+    <file file_num="157">
+        <Name>GrandNormDBEngine1.dll</Name>
+        <Size>1972224</Size>
+        <Time>2017-12-14 19:55:37</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>554b81df5781f447935f9f877d9ae0dc</Hash>
+    </file>
+    <file file_num="158">
+        <Name>LZMA.dll</Name>
+        <Size>485376</Size>
+        <Time>2017-12-14 19:42:12</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1ccc4742337948b29d6dc468b3cb535c</Hash>
+    </file>
+    <file file_num="159">
+        <Name>Log.dll</Name>
+        <Size>49152</Size>
+        <Time>2017-12-14 19:46:05</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ad4a858f6704cf095d8093f49a6267ef</Hash>
+    </file>
+    <file file_num="160">
+        <Name>LogManager.dll</Name>
+        <Size>27648</Size>
+        <Time>2017-12-14 19:28:32</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e443d75f7194c5edf4a4d423066cfa68</Hash>
+    </file>
+    <file file_num="161">
+        <Name>MDCache.dll</Name>
+        <Size>144384</Size>
+        <Time>2017-12-14 19:52:28</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9db001188933728e2de2c2674748496d</Hash>
+    </file>
+    <file file_num="162">
+        <Name>MDCmdLog.dll</Name>
+        <Size>46592</Size>
+        <Time>2017-12-14 19:51:56</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>c8e62c6c7e8558ddea7d8939c13d0613</Hash>
+    </file>
+    <file file_num="163">
+        <Name>MDCommon.dll</Name>
+        <Size>146944</Size>
+        <Time>2017-12-14 19:52:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>92ecd72089998ea7df45c199dca43d75</Hash>
+    </file>
+    <file file_num="164">
+        <Name>MDScript.dll</Name>
+        <Size>622592</Size>
+        <Time>2017-12-14 19:52:28</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0b72a9f05ca2c0aa008659a50c328e4c</Hash>
+    </file>
+    <file file_num="165">
+        <Name>MagicTrace.dll</Name>
+        <Size>1950720</Size>
+        <Time>2017-12-14 19:26:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>faf1641188b5e1e136221ae94b835a65</Hash>
+    </file>
+    <file file_num="166">
+        <Name>MaterialCore.dll</Name>
+        <Size>761856</Size>
+        <Time>2017-12-14 19:52:01</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e2b3a5042547d270d52af6c79175ac61</Hash>
+    </file>
+    <file file_num="167">
+        <Name>MenuForGAMIns.ini</Name>
+        <Size>34</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>12a79db9aafdef0fd5a4afd73ac42a5a</Hash>
+    </file>
+    <file file_num="168">
+        <Name>ModelConfigurationXML.dll</Name>
+        <Size>53248</Size>
+        <Time>2017-12-14 19:09:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>21184182e22cdea26e81b04b8120b358</Hash>
+    </file>
+    <file file_num="169">
+        <Name>ModelInfo.GDB</Name>
+        <Size>5361664</Size>
+        <Time>2017-12-14 19:25:31</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f52e28b287b7a7c24ce7be6308417109</Hash>
+    </file>
+    <file file_num="170">
+        <Name>NMElementTemp.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1e20fe5a4ef6f6e101f8374b88186c99</Hash>
+    </file>
+    <file file_num="171">
+        <Name>NXCGRaster.dll</Name>
+        <Size>17408</Size>
+        <Time>2017-12-14 19:47:46</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>08e4999a6ea2f3ffe9c7f493d8b18238</Hash>
+    </file>
+    <file file_num="172">
+        <Name>NormItem.GSP</Name>
+        <Size>23028</Size>
+        <Time>2017-12-14 19:55:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>14cdeb327496aa40bd33d59cc7c18c65</Hash>
+    </file>
+    <file file_num="173">
+        <Name>OfficeTheme.ini</Name>
+        <Size>1470</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res</Dir>
+        <Hash>79d45b280687f24ebbdb7dde362fa8cd</Hash>
+    </file>
+    <file file_num="174">
+        <Name>ParamPoly.GDB</Name>
+        <Size>14929920</Size>
+        <Time>2017-12-14 19:24:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0b771e1ca2150e7b127bd9c9b521dbc8</Hash>
+    </file>
+    <file file_num="175">
+        <Name>PdfReader.dll</Name>
+        <Size>9501696</Size>
+        <Time>2017-12-14 19:47:55</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8185fa38390e5183a0299c3f8bafa129</Hash>
+    </file>
+    <file file_num="176">
+        <Name>Plugins.ini</Name>
+        <Size>1085</Size>
+        <Time>2017-12-20 14:49:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4a0ae8f2bcc172215f54d00df72a5508</Hash>
+    </file>
+    <file file_num="177">
+        <Name>ProjectData.GDB</Name>
+        <Size>3723264</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>15acd30445d7b6da185f8d8bd8275d97</Hash>
+    </file>
+    <file file_num="178">
+        <Name>ProjectData1.GDB</Name>
+        <Size>25677824</Size>
+        <Time>2017-12-14 19:27:03</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cf78e283dfd77363fb57ebfc90c1dfd6</Hash>
+    </file>
+    <file file_num="179">
+        <Name>Project_Quota.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:58:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>06d0b1374473a66aa47891ffaf104687</Hash>
+    </file>
+    <file file_num="180">
+        <Name>QT5_11.dll</Name>
+        <Size>6656</Size>
+        <Time>2017-12-14 19:45:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b3ee89330c95a15546cadea6d51b688a</Hash>
+    </file>
+    <file file_num="181">
+        <Name>QT5_5.dll</Name>
+        <Size>6656</Size>
+        <Time>2017-12-14 19:45:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>be8755c8ae7de5bb2f17d660e42aa133</Hash>
+    </file>
+    <file file_num="182">
+        <Name>Qt5Core.dll</Name>
+        <Size>4652544</Size>
+        <Time>2017-12-14 19:24:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4942c2ae1bb845b5a38c98baa47ced05</Hash>
+    </file>
+    <file file_num="183">
+        <Name>Qt5Gui.dll</Name>
+        <Size>4877312</Size>
+        <Time>2017-12-14 19:25:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a4978dc42de7bd0d1e7bb30e954fe3e7</Hash>
+    </file>
+    <file file_num="184">
+        <Name>Qt5Multimedia.dll</Name>
+        <Size>560128</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bcc1e08996024b1ea85522ffe03777c6</Hash>
+    </file>
+    <file file_num="185">
+        <Name>Qt5MultimediaWidgets.dll</Name>
+        <Size>82432</Size>
+        <Time>2017-12-14 19:24:41</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4579d0f111e8cf070636bebb7cf90c03</Hash>
+    </file>
+    <file file_num="186">
+        <Name>Qt5Network.dll</Name>
+        <Size>858112</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5768e568d69ede9e66fd60c46c2b4fc1</Hash>
+    </file>
+    <file file_num="187">
+        <Name>Qt5OpenGL.dll</Name>
+        <Size>271872</Size>
+        <Time>2017-12-14 19:25:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>3926dd00a55641d59325f90c4ded3f00</Hash>
+    </file>
+    <file file_num="188">
+        <Name>Qt5Positioning.dll</Name>
+        <Size>166400</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>c87ddae084858ed66a15162ee8f91ac4</Hash>
+    </file>
+    <file file_num="189">
+        <Name>Qt5PrintSupport.dll</Name>
+        <Size>265728</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>63ac4bbdf3367e7258f3979812fd7341</Hash>
+    </file>
+    <file file_num="190">
+        <Name>Qt5Qml.dll</Name>
+        <Size>2643968</Size>
+        <Time>2017-12-14 19:25:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>df41584641c560d1a83dfbaef0f48d61</Hash>
+    </file>
+    <file file_num="191">
+        <Name>Qt5Quick.dll</Name>
+        <Size>2423296</Size>
+        <Time>2017-12-14 19:25:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a59e1976884487b4555a48837558b823</Hash>
+    </file>
+    <file file_num="192">
+        <Name>Qt5Script.dll</Name>
+        <Size>1124120</Size>
+        <Time>2017-12-14 19:24:23</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\tools\GJGSectionManual</Dir>
+        <Hash>c2cbcb6fb8b20408127ee691b4c9c345</Hash>
+    </file>
+    <file file_num="193">
+        <Name>Qt5Sensors.dll</Name>
+        <Size>145920</Size>
+        <Time>2017-12-14 19:25:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f796a80eb4b353bbd58d1097226e54c3</Hash>
+    </file>
+    <file file_num="194">
+        <Name>Qt5Sql.dll</Name>
+        <Size>151552</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>82f022aade6d6a5dc59111f10daa4f8a</Hash>
+    </file>
+    <file file_num="195">
+        <Name>Qt5Svg.dll</Name>
+        <Size>204056</Size>
+        <Time>2017-12-14 19:24:23</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\tools\GJGSectionManual</Dir>
+        <Hash>769becdbd81726dc2cdf6c93453aa8ea</Hash>
+    </file>
+    <file file_num="196">
+        <Name>Qt5V8.dll</Name>
+        <Size>2670080</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b20d8dfd680740cd0493f89902d91406</Hash>
+    </file>
+    <file file_num="197">
+        <Name>Qt5WebChannel.dll</Name>
+        <Size>78336</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>eef7cd7fff992d12aa6e585ad7f5e0d6</Hash>
+    </file>
+    <file file_num="198">
+        <Name>Qt5WebKit.dll</Name>
+        <Size>17542656</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>43e2c423fb5bfc5bde6be4a8a8eb4752</Hash>
+    </file>
+    <file file_num="199">
+        <Name>Qt5WebKitWidgets.dll</Name>
+        <Size>200192</Size>
+        <Time>2017-12-14 19:26:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>406d4d79f36e46b436bfcc25b683522b</Hash>
+    </file>
+    <file file_num="200">
+        <Name>Qt5Widgets.dll</Name>
+        <Size>4491264</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bc6114e1684de01d737a244c01e187bd</Hash>
+    </file>
+    <file file_num="201">
+        <Name>Qt5WinExtras.dll</Name>
+        <Size>230912</Size>
+        <Time>2017-12-14 19:26:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a2527e15135d542e9974039fc758bc11</Hash>
+    </file>
+    <file file_num="202">
+        <Name>Qt5Xml.dll</Name>
+        <Size>151552</Size>
+        <Time>2017-12-14 19:27:00</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9897f7a3d0100da39e113e0003001807</Hash>
+    </file>
+    <file file_num="203">
+        <Name>Quantity.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:09:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>53d3b30799e9e3ca411aa06ba034b5b5</Hash>
+    </file>
+    <file file_num="204">
+        <Name>QueryBQItemSpec.GSP</Name>
+        <Size>732</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>c69f9db3bbaeb5842a282d323e9d3ba6</Hash>
+    </file>
+    <file file_num="205">
+        <Name>QueryMeasure.GSP</Name>
+        <Size>5312</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>b743720d9933a38fbf2483901a64a68d</Hash>
+    </file>
+    <file file_num="206">
+        <Name>RccGenTool.ini</Name>
+        <Size>643</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>432d3fc005a59436c5fb74d607c80947</Hash>
+    </file>
+    <file file_num="207">
+        <Name>RegionRule_Calc.GSP</Name>
+        <Size>1282039</Size>
+        <Time>2017-12-14 19:09:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>aa52330ad3ef596f114e83024abe069a</Hash>
+    </file>
+    <file file_num="208">
+        <Name>RegionRule_Model.GDB</Name>
+        <Size>3198976</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7d961396453544fe117f69d6747e2656</Hash>
+    </file>
+    <file file_num="209">
+        <Name>RegionsIndex.GSP</Name>
+        <Size>11159</Size>
+        <Time>2017-12-14 19:55:35</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>32893374f5bc9c4e608b4b393b0b0e3e</Hash>
+    </file>
+    <file file_num="210">
+        <Name>RenderSystemGL.dll</Name>
+        <Size>265728</Size>
+        <Time>2017-12-14 19:51:56</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2c430ed9a896bd09b1831efe018fdc54</Hash>
+    </file>
+    <file file_num="211">
+        <Name>Resource.GSP</Name>
+        <Size>1012</Size>
+        <Time>2017-12-14 19:55:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>0e17973e9e7c9545af4d9cf2a51768b8</Hash>
+    </file>
+    <file file_num="212">
+        <Name>SchemeIndex.GSP</Name>
+        <Size>4596</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a1b50d36db5d5d48624b16601878ec8d</Hash>
+    </file>
+    <file file_num="213">
+        <Name>ShowEDOExprSchema.GSP</Name>
+        <Size>2938</Size>
+        <Time>2017-12-14 19:25:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>11e927535155e09ef6d45a86166cd443</Hash>
+    </file>
+    <file file_num="214">
+        <Name>SideBarSetting.ini</Name>
+        <Size>631</Size>
+        <Time>2017-12-14 19:25:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>15df558d7a3c53d7ec98d0792fdbc677</Hash>
+    </file>
+    <file file_num="215">
+        <Name>SilveryWhite.ini</Name>
+        <Size>2238</Size>
+        <Time>2017-12-14 19:25:50</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\res\Theme_SilveryWhite</Dir>
+        <Hash>c0410e166eebb40ccb9a53099dd8c416</Hash>
+    </file>
+    <file file_num="216">
+        <Name>SketchUpAPI.dll</Name>
+        <Size>5477192</Size>
+        <Time>2017-12-14 19:52:09</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8be878cc14b76bcb01643f4abe69432f</Hash>
+    </file>
+    <file file_num="217">
+        <Name>StdConv.GSP</Name>
+        <Size>19512</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>468308d0d70a3c9867ac6be6fad57274</Hash>
+    </file>
+    <file file_num="218">
+        <Name>StdConvCondition.GSP</Name>
+        <Size>9802</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>9f4def6f419e645dcb4ed1e78a86c9ea</Hash>
+    </file>
+    <file file_num="219">
+        <Name>StdConvDetials.GSP</Name>
+        <Size>1762</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>5a99542ce23b423060f92edca8ffe399</Hash>
+    </file>
+    <file file_num="220">
+        <Name>SysInfo.GDB</Name>
+        <Size>5361664</Size>
+        <Time>2017-12-20 09:18:01</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>928237423242f43feb280bb133424700</Hash>
+    </file>
+    <file file_num="221">
+        <Name>SysInfo_CAD.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>37a063527d2bda6b3d0a4e002fbceb05</Hash>
+    </file>
+    <file file_num="222">
+        <Name>SysInfo_Plugin.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:58:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7c0775006cda9e13f7454b3a6fd85f86</Hash>
+    </file>
+    <file file_num="223">
+        <Name>SysInfo_Quota.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-21 09:04:45</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GQT</Dir>
+        <Hash>b29a618309665699686cef543c81e49a</Hash>
+    </file>
+    <file file_num="224">
+        <Name>TD_AcisBuilder_4.00_10.dll</Name>
+        <Size>689704</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d5de16aea5dfe592714eff7070e4eb30</Hash>
+    </file>
+    <file file_num="225">
+        <Name>TD_Alloc_4.00_10.dll</Name>
+        <Size>14888</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a246f8eef55c93e00f2d731710ed0c78</Hash>
+    </file>
+    <file file_num="226">
+        <Name>TD_Br_4.00_10.dll</Name>
+        <Size>77864</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0693d539295a36eb3d8b1620af21e7be</Hash>
+    </file>
+    <file file_num="227">
+        <Name>TD_BrepRenderer_4.00_10.dll</Name>
+        <Size>305192</Size>
+        <Time>2017-12-14 19:46:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6edf39af9f4d2e22a30b1ac39c7fbdb9</Hash>
+    </file>
+    <file file_num="228">
+        <Name>TD_DbRoot_4.00_10.dll</Name>
+        <Size>342056</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9fb18befdb4b413e4c2b5412cc58fdd4</Hash>
+    </file>
+    <file file_num="229">
+        <Name>TD_Db_4.00_10.dll</Name>
+        <Size>9197096</Size>
+        <Time>2017-12-14 19:46:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>762cd0975747cdc818f7b037170aa2e4</Hash>
+    </file>
+    <file file_num="230">
+        <Name>TD_Ge_4.00_10.dll</Name>
+        <Size>1056808</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4c4844179a20295f3058a3e42c03c139</Hash>
+    </file>
+    <file file_num="231">
+        <Name>TD_Gi_4.00_10.dll</Name>
+        <Size>1036840</Size>
+        <Time>2017-12-14 19:46:17</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>20a244c74f5367433dd9afa59ab9350b</Hash>
+    </file>
+    <file file_num="232">
+        <Name>TD_Gs_4.00_10.dll</Name>
+        <Size>901672</Size>
+        <Time>2017-12-14 19:46:18</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>77ded4be38313e8d98da6444e0779241</Hash>
+    </file>
+    <file file_num="233">
+        <Name>TD_Root_4.00_10.dll</Name>
+        <Size>643624</Size>
+        <Time>2017-12-14 19:46:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2f22bce9dd9371f7b0d0baf1566ef0ee</Hash>
+    </file>
+    <file file_num="234">
+        <Name>TD_SpatialIndex_4.00_10.dll</Name>
+        <Size>37928</Size>
+        <Time>2017-12-14 19:46:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>09b97c4b5f2a06cd476a36b641115487</Hash>
+    </file>
+    <file file_num="235">
+        <Name>Ubc.dll</Name>
+        <Size>180736</Size>
+        <Time>2017-12-20 09:27:02</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b0f6ca631265d8f6c7f738f32342032c</Hash>
+    </file>
+    <file file_num="236">
+        <Name>UbcDataConfig.ini</Name>
+        <Size>202</Size>
+        <Time>2017-12-14 19:25:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7e19568dd6d525cc6ab5e13080f2a815</Hash>
+    </file>
+    <file file_num="237">
+        <Name>UpgradeVersion.ini</Name>
+        <Size>124</Size>
+        <Time>2017-12-18 15:41:20</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>fb35c72aaeb976f24492ce0f43fccb22</Hash>
+    </file>
+    <file file_num="238">
+        <Name>UserInfo.GDB</Name>
+        <Size>4313088</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>57dabee243eff04f79e88aa68830295d</Hash>
+    </file>
+    <file file_num="239">
+        <Name>UserSaveBQSpecValue.GSP</Name>
+        <Size>780</Size>
+        <Time>2017-12-14 19:55:15</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Config</Dir>
+        <Hash>426175165ee7a8d80473129b3dae1810</Hash>
+    </file>
+    <file file_num="240">
+        <Name>VDECore.dll</Name>
+        <Size>2361856</Size>
+        <Time>2017-12-20 09:45:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>3a615a5f5eb38d99b1db40035116d876</Hash>
+    </file>
+    <file file_num="241">
+        <Name>VDEditor.ini</Name>
+        <Size>1809</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>dc6592e64f892135f53b9ea9f3de8230</Hash>
+    </file>
+    <file file_num="242">
+        <Name>VMProtectSDK32.dll</Name>
+        <Size>64000</Size>
+        <Time>2017-12-14 19:40:19</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1e6fdcd6d847bbf9cd3a37ba72cda3f7</Hash>
+    </file>
+    <file file_num="243">
+        <Name>VectorDrawing.dll</Name>
+        <Size>767488</Size>
+        <Time>2017-12-20 09:31:14</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>f717f0a1214119ed3e1d7073652bc1f2</Hash>
+    </file>
+    <file file_num="244">
+        <Name>VectorDrawingEditor.dll</Name>
+        <Size>1283584</Size>
+        <Time>2017-12-20 09:32:12</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>098ad5023fce0ae4e994029d3f58a5f2</Hash>
+    </file>
+    <file file_num="245">
+        <Name>ViewCore.dll</Name>
+        <Size>2781696</Size>
+        <Time>2017-12-14 19:51:56</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>d55b67aa1cd3e4a8e2e3b24c3913e57c</Hash>
+    </file>
+    <file file_num="246">
+        <Name>ViewManager.dll</Name>
+        <Size>797184</Size>
+        <Time>2017-12-14 19:52:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>2b69b4cbbb8802d47b26a7e6eb8e9bfb</Hash>
+    </file>
+    <file file_num="247">
+        <Name>WastageTemp.GDB</Name>
+        <Size>2117632</Size>
+        <Time>2017-12-14 19:24:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cecd94e28f1289066a010e9994682f1f</Hash>
+    </file>
+    <file file_num="248">
+        <Name>dbghelp.dll</Name>
+        <Size>1080656</Size>
+        <Time>2017-12-14 19:40:30</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>5c5e3afd499e5146fef1da5ef8a23205</Hash>
+    </file>
+    <file file_num="249">
+        <Name>dsengine.dll</Name>
+        <Size>54784</Size>
+        <Time>2017-12-14 19:25:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\mediaservice</Dir>
+        <Hash>3d4293a8d72c5e4c7fbfe9fea69fee81</Hash>
+    </file>
+    <file file_num="250">
+        <Name>filedialog.ini</Name>
+        <Size>2778</Size>
+        <Time>2017-12-21 09:04:40</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>249ded3bcd9f155c407c7c8f337e239a</Hash>
+    </file>
+    <file file_num="251">
+        <Name>glew32.dll</Name>
+        <Size>295936</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>ac67baa86e4d67a51554160fe5dcbcc8</Hash>
+    </file>
+    <file file_num="252">
+        <Name>glewctx.dll</Name>
+        <Size>58880</Size>
+        <Time>2017-12-14 19:52:05</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>7023a44d5041d96a03aefee66a8edbe4</Hash>
+    </file>
+    <file file_num="253">
+        <Name>glog.dll</Name>
+        <Size>141312</Size>
+        <Time>2017-12-14 19:28:27</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>05f74f1b78e1b7228b2d1e44d3e1123d</Hash>
+    </file>
+    <file file_num="254">
+        <Name>gsolver.dll</Name>
+        <Size>259584</Size>
+        <Time>2017-12-14 19:52:28</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>51f7f16b8914e3409f72998075cd4592</Hash>
+    </file>
+    <file file_num="255">
+        <Name>icudt.dll</Name>
+        <Size>4154936</Size>
+        <Time>2017-12-14 19:24:41</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>fede70aa5ff9f0e9987f60be28bd6f4d</Hash>
+    </file>
+    <file file_num="256">
+        <Name>icudt51.dll</Name>
+        <Size>22317056</Size>
+        <Time>2017-12-14 19:25:42</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>90fb58ca451b32be5ac406175901b7b2</Hash>
+    </file>
+    <file file_num="257">
+        <Name>icudt54.dll</Name>
+        <Size>25338368</Size>
+        <Time>2017-12-14 19:27:00</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6513534311b8e8d8494e966e0ed7f302</Hash>
+    </file>
+    <file file_num="258">
+        <Name>icuin51.dll</Name>
+        <Size>1767424</Size>
+        <Time>2017-12-14 19:24:45</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>a7f201c0b9ac05e950ecc55d4403ec16</Hash>
+    </file>
+    <file file_num="259">
+        <Name>icuin54.dll</Name>
+        <Size>2036224</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>6a5c1c4827af9419f7490a2c79c5a364</Hash>
+    </file>
+    <file file_num="260">
+        <Name>icuuc51.dll</Name>
+        <Size>1295872</Size>
+        <Time>2017-12-14 19:25:52</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>dae4100039a943128c34ba3e05f6cd02</Hash>
+    </file>
+    <file file_num="261">
+        <Name>icuuc54.dll</Name>
+        <Size>1387008</Size>
+        <Time>2017-12-14 19:24:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>384210dabeab561992fb5a455cb8bda8</Hash>
+    </file>
+    <file file_num="262">
+        <Name>lib3ds-2_0.dll</Name>
+        <Size>70144</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>8ba1bfe969378a419b81d2be14bb681d</Hash>
+    </file>
+    <file file_num="263">
+        <Name>libEGL.dll</Name>
+        <Size>11264</Size>
+        <Time>2017-12-14 19:25:53</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4fa1af06867e8f0387c71872363a385a</Hash>
+    </file>
+    <file file_num="264">
+        <Name>libGLESv2.dll</Name>
+        <Size>1713664</Size>
+        <Time>2017-12-14 19:24:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>9de9ad798d20f91520ea428745b19d16</Hash>
+    </file>
+    <file file_num="265">
+        <Name>libcurl.dll</Name>
+        <Size>273408</Size>
+        <Time>2017-12-14 19:54:03</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>20eb728cfac5c607e73d324d863b2124</Hash>
+    </file>
+    <file file_num="266">
+        <Name>libcurld.dll</Name>
+        <Size>467456</Size>
+        <Time>2017-12-14 19:26:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b0ce99e60bfd311638d0eacc07c7a4c8</Hash>
+    </file>
+    <file file_num="267">
+        <Name>libeay32.dll</Name>
+        <Size>1261056</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cb1f13218b31baa9b1f2b6e1b837acbd</Hash>
+    </file>
+    <file file_num="268">
+        <Name>libfbxsdk.dll</Name>
+        <Size>6552360</Size>
+        <Time>2017-12-14 19:52:05</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b6dc6ff3b54f67e2c8a84231ac74b580</Hash>
+    </file>
+    <file file_num="269">
+        <Name>libtcmalloc_minimal.dll</Name>
+        <Size>187904</Size>
+        <Time>2017-12-18 08:52:13</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>1f8b7f7637bdf50cd269a3cbac01bb14</Hash>
+    </file>
+    <file file_num="270">
+        <Name>libxl.dll</Name>
+        <Size>6480896</Size>
+        <Time>2017-12-14 19:43:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>cb5c82a3d69ed7dab21258ef5b002cf3</Hash>
+    </file>
+    <file file_num="271">
+        <Name>log.ini</Name>
+        <Size>100</Size>
+        <Time>2017-12-14 19:24:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Log</Dir>
+        <Hash>a2d4ef45bfcae97e1ce63365545ac266</Hash>
+    </file>
+    <file file_num="272">
+        <Name>log4cplusU.dll</Name>
+        <Size>438272</Size>
+        <Time>2017-12-14 19:54:07</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>df86ac671b27a817538d48902dab4215</Hash>
+    </file>
+    <file file_num="273">
+        <Name>msvcp100.dll</Name>
+        <Size>421200</Size>
+        <Time>2017-12-14 19:29:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bc83108b18756547013ed443b8cdb31b</Hash>
+    </file>
+    <file file_num="274">
+        <Name>msvcr100.dll</Name>
+        <Size>773968</Size>
+        <Time>2017-12-14 19:29:54</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>0e37fbfa79d349d672456923ec5fbbe3</Hash>
+    </file>
+    <file file_num="275">
+        <Name>msvcr120.dll</Name>
+        <Size>970912</Size>
+        <Time>2017-12-14 19:55:36</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\GNDB</Dir>
+        <Hash>034ccadc1c073e4216e9466b720f9849</Hash>
+    </file>
+    <file file_num="276">
+        <Name>npSSO.dll</Name>
+        <Size>2899968</Size>
+        <Time>2017-12-14 19:47:37</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>95d67fa3a5043588e78b07e5a35b0cc8</Hash>
+    </file>
+    <file file_num="277">
+        <Name>objectbuf.dll</Name>
+        <Size>142848</Size>
+        <Time>2017-12-20 09:26:58</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>142a3af43f58c096844e8ee04345be8d</Hash>
+    </file>
+    <file file_num="278">
+        <Name>opengl32.dll</Name>
+        <Size>22859776</Size>
+        <Time>2017-12-14 19:52:23</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\Drv</Dir>
+        <Hash>0102f5152655df49142b59fba6252874</Hash>
+    </file>
+    <file file_num="279">
+        <Name>qdds.dll</Name>
+        <Size>36352</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>20b6efde581412718cf770a19b18367e</Hash>
+    </file>
+    <file file_num="280">
+        <Name>qgif.dll</Name>
+        <Size>22016</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>b1c28c44face491b40c3f510d4fbbfc5</Hash>
+    </file>
+    <file file_num="281">
+        <Name>qicns.dll</Name>
+        <Size>29184</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>a3ed6cae8ef45bb2e008320532562a29</Hash>
+    </file>
+    <file file_num="282">
+        <Name>qico.dll</Name>
+        <Size>22016</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>26318af4655a61bb2d1da2c3d76b888e</Hash>
+    </file>
+    <file file_num="283">
+        <Name>qjp2.dll</Name>
+        <Size>381952</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>887e0f376fd8d43852da6e1b05ec235e</Hash>
+    </file>
+    <file file_num="284">
+        <Name>qjpeg.dll</Name>
+        <Size>206848</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>b4c3e4470c893243a18f2051f8fbe0d2</Hash>
+    </file>
+    <file file_num="285">
+        <Name>qminimal.dll</Name>
+        <Size>26112</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\platforms</Dir>
+        <Hash>f567c0617c59221ce0dec6a349675f7c</Hash>
+    </file>
+    <file file_num="286">
+        <Name>qmng.dll</Name>
+        <Size>218624</Size>
+        <Time>2017-12-14 19:26:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>874dee09eaa6deae60449e6926536019</Hash>
+    </file>
+    <file file_num="287">
+        <Name>qoffscreen.dll</Name>
+        <Size>529408</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\platforms</Dir>
+        <Hash>5825d41a6a7f8505723a6cf5943c32dd</Hash>
+    </file>
+    <file file_num="288">
+        <Name>qsqlite.dll</Name>
+        <Size>680448</Size>
+        <Time>2017-12-14 19:26:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\sqldrivers</Dir>
+        <Hash>1b9cfad4253831f1bf5e7b97ac95c62e</Hash>
+    </file>
+    <file file_num="289">
+        <Name>qsqlodbc.dll</Name>
+        <Size>64512</Size>
+        <Time>2017-12-14 19:26:49</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\sqldrivers</Dir>
+        <Hash>afcfe63df561351c6a4ec1e873223ae8</Hash>
+    </file>
+    <file file_num="290">
+        <Name>qsvg.dll</Name>
+        <Size>16896</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>28936334400b5754239ab2fa4408a945</Hash>
+    </file>
+    <file file_num="291">
+        <Name>qtga.dll</Name>
+        <Size>16384</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>07a396daf1107f7f4a2ee5761dd22505</Hash>
+    </file>
+    <file file_num="292">
+        <Name>qtiff.dll</Name>
+        <Size>308736</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>a62c42b6cef3802b82106fa3d486038d</Hash>
+    </file>
+    <file file_num="293">
+        <Name>qtmedia_audioengine.dll</Name>
+        <Size>42496</Size>
+        <Time>2017-12-14 19:25:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\mediaservice</Dir>
+        <Hash>0150c08f1188d86eea40194f37f2e63c</Hash>
+    </file>
+    <file file_num="294">
+        <Name>qtnchart2.dll</Name>
+        <Size>371712</Size>
+        <Time>2017-12-14 19:25:51</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>173357c770e109a043d88aaec4898925</Hash>
+    </file>
+    <file file_num="295">
+        <Name>qtnribbon3.dll</Name>
+        <Size>3709952</Size>
+        <Time>2017-12-14 19:41:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>bbf1dce7e63043739d25d472112c9456</Hash>
+    </file>
+    <file file_num="296">
+        <Name>qwbmp.dll</Name>
+        <Size>15360</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>52ce32381579340c5e97c23ae2566c2c</Hash>
+    </file>
+    <file file_num="297">
+        <Name>qwebp.dll</Name>
+        <Size>287232</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\imageformats</Dir>
+        <Hash>92199786a19167453a9e282e904ce0cc</Hash>
+    </file>
+    <file file_num="298">
+        <Name>qwindows.dll</Name>
+        <Size>991744</Size>
+        <Time>2017-12-14 19:26:48</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\platforms</Dir>
+        <Hash>14c90ab1c84338bf89681b91bd788517</Hash>
+    </file>
+    <file file_num="299">
+        <Name>sdt.dll</Name>
+        <Size>121344</Size>
+        <Time>2017-12-14 19:52:00</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>4010728619c3768788d6249f7dcb1553</Hash>
+    </file>
+    <file file_num="300">
+        <Name>sisl.dll</Name>
+        <Size>843816</Size>
+        <Time>2017-12-14 19:46:16</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>28977293c51e0311df543c258fefcbf6</Hash>
+    </file>
+    <file file_num="301">
+        <Name>sqlite3.dll</Name>
+        <Size>533504</Size>
+        <Time>2017-12-14 19:54:02</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>beee3e0ac1856cd8826d28eaa7a7aa0f</Hash>
+    </file>
+    <file file_num="302">
+        <Name>sqlite3d.dll</Name>
+        <Size>828416</Size>
+        <Time>2017-12-14 19:24:47</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>e8a39fcfa331ed54802afe5ecc7e2c23</Hash>
+    </file>
+    <file file_num="303">
+        <Name>ssleay32.dll</Name>
+        <Size>255416</Size>
+        <Time>2017-12-14 19:24:22</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>b31b999451732a0c10998ec02837633c</Hash>
+    </file>
+    <file file_num="304">
+        <Name>table.ini</Name>
+        <Size>3828</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\skin</Dir>
+        <Hash>c7b1431d318c43de82aab5da0935d0b9</Hash>
+    </file>
+    <file file_num="305">
+        <Name>tableView.ini</Name>
+        <Size>105</Size>
+        <Time>2017-12-14 19:26:11</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\skin</Dir>
+        <Hash>836f4645db6d73dc3fe86f437055a867</Hash>
+    </file>
+    <file file_num="306">
+        <Name>version.ini</Name>
+        <Size>15</Size>
+        <Time>2017-12-20 09:18:02</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>658ea692cd7b4e07c4ba348fd199c5e8</Hash>
+    </file>
+    <file file_num="307">
+        <Name>vld_x86.dll</Name>
+        <Size>848384</Size>
+        <Time>2017-12-14 19:40:30</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>66af26a95edfcd14b2ab6bff42afbfea</Hash>
+    </file>
+    <file file_num="308">
+        <Name>windowsprintersupport.dll</Name>
+        <Size>30720</Size>
+        <Time>2017-12-14 19:36:10</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\printsupport</Dir>
+        <Hash>a70a818d88e7a0dc345ea75fbfa3e4e6</Hash>
+    </file>
+    <file file_num="309">
+        <Name>windowsprintersupportd.dll</Name>
+        <Size>105472</Size>
+        <Time>2017-12-14 19:36:10</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\printsupport</Dir>
+        <Hash>1d2b210d0d2a4f2aa8c3bbd7ca61a0ff</Hash>
+    </file>
+    <file file_num="310">
+        <Name>wmfengine.dll</Name>
+        <Size>164864</Size>
+        <Time>2017-12-14 19:25:59</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin\mediaservice</Dir>
+        <Hash>f4f7228c28d027ba45a728397ec8fa2f</Hash>
+    </file>
+    <file file_num="311">
+        <Name>zip.dll</Name>
+        <Size>137216</Size>
+        <Time>2017-12-14 19:51:57</Time>
+        <Dir>C:\Program Files (x86)\Glodon\GTJ2018\bin</Dir>
+        <Hash>860efe169a8f44317e6578eb43d24069</Hash>
+    </file>
+</FileInfo>

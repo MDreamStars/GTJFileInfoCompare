@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/collect/fileInfo">
+        <file>fileInfo.png</file>
+    </qresource>
+    <qresource prefix="/compare/fileinfo">
+        <file>compare.png</file>
+    </qresource>
+    <qresource prefix="/setUp/setTool">
+        <file>setUp.png</file>
+    </qresource>
+    <qresource prefix="/window/exe">
+        <file>windowICO.png</file>
+    </qresource>
+</RCC>
